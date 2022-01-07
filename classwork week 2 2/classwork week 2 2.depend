@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608722614 source:c:\users\user\books\programming\c++;c\c++\classwork week 2 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634901559 source:c:\users\marvi\books\programming\c++;c\c++\classwork week 2 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
