@@ -1,3 +1,4 @@
+/*Exercise to show a 4 digit number in digits and find the sum of digits.*/
 #include <stdio.h>
 #include <stdlib.h>
 
