@@ -1,3 +1,4 @@
+/*Simple exchange exercise with floats*/
 #include <stdio.h>
 #include <stdlib.h>
 
