@@ -1,3 +1,4 @@
+/*Power function in math.h library*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
