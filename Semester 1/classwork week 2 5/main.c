@@ -1,3 +1,4 @@
+/*The average of 3 grades */
 #include <stdio.h>
 #include <stdlib.h>
 
