@@ -1,3 +1,4 @@
+/*Exercise to caculate water bill if there are less then 4000 litters bill equals 10 else we use formula*/
 #include <stdio.h>
 #include <stdlib.h>
 
