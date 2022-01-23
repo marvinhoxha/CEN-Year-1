@@ -1,4 +1,4 @@
-//mhoxha20
+//Caculate the grade of a subject and checking if passed or failed
 #include <stdio.h>
 #include <stdlib.h>
 
