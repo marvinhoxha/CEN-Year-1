@@ -1,3 +1,4 @@
+//Exercise that shows where a point is located.
 #include <stdio.h>
 #include <stdlib.h>
 
