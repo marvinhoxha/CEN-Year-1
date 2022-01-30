@@ -1,4 +1,5 @@
 //mhoxha20
+//function that gets a number n and returns a random number from 0 to n-1
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
