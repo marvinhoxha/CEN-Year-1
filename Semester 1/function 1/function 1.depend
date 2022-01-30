@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622639349 source:c:\users\user\books\programming\c++;c\c++\function 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1622632149 source:c:\users\marvi\books\first year\programming\c++;c\c++\function 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612380174 source:c:\users\user\books\programming\c++;c\c++\function 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
