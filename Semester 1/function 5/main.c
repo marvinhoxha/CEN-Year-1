@@ -1,4 +1,5 @@
 //mhoxha20
+//exercise to read values from a file and caculate the area for each figure 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
