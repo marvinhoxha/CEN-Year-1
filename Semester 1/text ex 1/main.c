@@ -1,4 +1,5 @@
 //mhoxha20
+//exercise with text files
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
