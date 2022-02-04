@@ -1,4 +1,5 @@
 //mhoxha20
+//functions that reads objects from file and caculates the sum of their area and the smallest area object
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

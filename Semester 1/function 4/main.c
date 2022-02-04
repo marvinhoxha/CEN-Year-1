@@ -1,4 +1,5 @@
 //mhoxha20
+//exercise that check if a password is a required by using a set of boolean functions and if else sttatements
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

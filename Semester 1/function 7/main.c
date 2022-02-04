@@ -1,4 +1,5 @@
 //mhoxha20
+//function that writes the user input in file then reads the values and caculates the sum of areas and the min area
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
