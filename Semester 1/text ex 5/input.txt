@@ -1,0 +1,6 @@
+5
+Arben Hoxha 76 50 70 80 80 -1
+Artur Dardani 100 100 -1
+Klevis Shehu 100 100 100 -1
+Alban Mehmeti 90 90 80 82 -1
+Ervin Murataj 70 70 60 70 70 80 -1
