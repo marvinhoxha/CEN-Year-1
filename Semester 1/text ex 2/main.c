@@ -1,4 +1,5 @@
 //mhoxha20
+//text exercise
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
