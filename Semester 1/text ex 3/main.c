@@ -1,4 +1,5 @@
 //mhoxha20
+//draw from text file
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
