@@ -1,4 +1,5 @@
 //mhoxha20
+//text exercise to get the student with the best average from file
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
