@@ -1,4 +1,5 @@
 //mhoxha20
+//average of best grades from file exersice
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
