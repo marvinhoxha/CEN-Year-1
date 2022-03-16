@@ -1,4 +1,5 @@
 //mhoxha20
+//sum of the biggest digits in c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
